@@ -18,7 +18,7 @@ This implementation of a linked list in C++ provides a simple and efficient way 
 To use this implementation of a linked list in your project, simply clone this repository to your local machine:
 
 
-## git clone https://github.com/your-username/linked-list-cpp.git
+##https://github.com/asimhussain86/Linked-List.git
 Once you have cloned the repository, you can include the LinkedList.hpp header file in your C++ code to use the linked list.
 
 ## Usage
