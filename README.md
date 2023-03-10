@@ -8,7 +8,7 @@ This repository contains a C++ implementation of a linked list.
 ## Installation
 ## Usage
 ## Contributing
-## License
+
 ### Introduction
 A linked list is a dynamic data structure that consists of nodes, each node pointing to the next node in the list. The linked list can be used to store and manipulate data efficiently.
 
@@ -34,6 +34,6 @@ You can add elements to the list using the add method:
 
         push(x,&head);
 
-Contributing
+## Contributing
 If you would like to contribute to this implementation of a linked list in C++, please feel free to submit a pull request.
 
