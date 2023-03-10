@@ -24,12 +24,12 @@ Once you have cloned the repository, you can include the LinkedList.hpp header f
 ## Usage
 To create a linked list, you can simply create a class/struct that contains a data and an address as objects:
 
-class Node
-{
-    public:
-    int data;
-    Node *next;
-};
+               class Node
+                     {
+                         public:
+                         int data;
+                         Node *next;
+                      };
 You can add elements to the list using the add method:
 
         push(x,&head);
